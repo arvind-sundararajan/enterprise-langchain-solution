@@ -1,0 +1,2 @@
+# requirements.txt
+Production configuration for Enterprise LangChain Solution
